@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Finboex
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning to make code with basic languages like HTML, python and maybe Javascript later
+- 💞️ I’m looking to collaborate on beginner friendly projects
+- 📫 How to reach me: 
+- Twitter: @Finboex
